@@ -110,9 +110,17 @@ month_short = SWITCH(MONTH(dim_date[date]),
 
 
 
-## Insights
-1. 
-![Screenshot (59)](https://github.com/user-attachments/assets/9753f731-6bf3-46ce-a239-abf1a440fd14)
+## Insights & Recommendations
+![Ride Hailing Company GoodCabs' Presentation Pages](https://github.com/user-attachments/assets/30e9b337-b936-40ed-afc4-2ff95d50a7e0)
 
-2.
-![Screenshot (60)](https://github.com/user-attachments/assets/7e155c09-4584-4d9b-8ae8-f5995b4a4c31)
+![P2](https://github.com/user-attachments/assets/a917b9de-057a-440c-9a50-6310acadb2a5)
+
+![P3](https://github.com/user-attachments/assets/55fe565e-6ec1-4d87-bd70-d350d3f2b34f)
+
+![P4](https://github.com/user-attachments/assets/0d88946b-da09-4a15-9415-09bdc870bf26)
+
+![P5](https://github.com/user-attachments/assets/f30a62f7-328b-4a0c-b904-2f79cba8c6a5)
+
+
+
+
