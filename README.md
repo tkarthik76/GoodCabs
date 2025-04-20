@@ -142,6 +142,11 @@ The following sections will delve deeper into the data, uncover actionable insig
 ### Recommendations 
 ![P5](https://github.com/user-attachments/assets/a93123e7-e4e2-4ad5-9609-ad8ad2424b08)
 
+## Other Metrics Overview
+### Top and Bottom Performing Cities
+![Q1](https://github.com/user-attachments/assets/747b9531-1c75-43e4-8056-e849ca447207)
+
+
 
 
 
