@@ -109,17 +109,39 @@ month_short = SWITCH(MONTH(dim_date[date]),
 
 
 
+## Executive Summary – H1 2024
+**Overview of findings** 
 
-## Insights & Recommendations
-![Ride Hailing Company GoodCabs' Presentation Pages](https://github.com/user-attachments/assets/30e9b337-b936-40ed-afc4-2ff95d50a7e0)
+After analyzing the market size in India,2024. GoodCabs' market share was less than 2%(assumed target) of the estimated market value in 2024 in India. Actual performance has fallen short, reaching only ₹108.2 million INR in revenue—33% below target. The average revenue growth rate stands at -3.31%, largely due to a significant revenue drop of ₹2.6 million INR in June.
 
-![P2](https://github.com/user-attachments/assets/a917b9de-057a-440c-9a50-6310acadb2a5)
+Trip volumes have been on a consistent decline since February, with the exception of a temporary rise in May. Notably, many cities recorded their highest trip counts in April and the lowest in June. Weekend trips, which contribute approximately 56% of total revenue, have been steadily declining since February. Weekday revenue experienced a steep drop in June.
 
-![P3](https://github.com/user-attachments/assets/55fe565e-6ec1-4d87-bd70-d350d3f2b34f)
+The Repeat Passenger Rate (RPR) plummeted by 11% in June, and new passenger acquisition has been consistently declining since February. These trends are primarily attributed to seasonal fluctuations, subpar passenger and driver ratings, UX/UI design shortcomings, overdependence on two key cities—Jaipur and Kochi—and the absence of a robust conversion strategy.
 
-![P4](https://github.com/user-attachments/assets/0d88946b-da09-4a15-9415-09bdc870bf26)
+The following sections will delve deeper into the data, uncover actionable insights, and identify key opportunity areas for improving performance and driving sustainable growth.
 
-![P5](https://github.com/user-attachments/assets/f30a62f7-328b-4a0c-b904-2f79cba8c6a5)
+### Company's Status?
+![P1](https://github.com/user-attachments/assets/1721b836-1b9c-4fcd-880d-b0c12060cbf1)
+
+
+### Key Insight 1
+![P2](https://github.com/user-attachments/assets/5911c77b-adc6-4786-bfe4-af7cf9ad1afd)
+
+
+
+### Key Insight 2
+![P3](https://github.com/user-attachments/assets/e6c8d225-d382-4c41-8795-01aaa074cc2a)
+
+
+
+### Key Insight 3
+![P4](https://github.com/user-attachments/assets/4b9ad2be-e7d7-48cd-8ff6-12ac212139be)
+
+
+
+### Recommendations 
+![P5](https://github.com/user-attachments/assets/a93123e7-e4e2-4ad5-9609-ad8ad2424b08)
+
 
 
 
