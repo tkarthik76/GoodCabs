@@ -15,6 +15,22 @@ Like global players such as Uber and Grab, GoodCabs faces challenges tied to sea
 ## Table of Contents
 - [Data Structure & Entity Relationship Diagram (ERD)](#data-structure--entity-relationship-diagram-erd)
 - [Data Cleaning](#-data-cleaning)
+- [Data Transformation](#data-transformation)
+- [Executive Summary](#executive-summary--h1-2024)
+  - [Company's Status](#companys-status)
+  - [Key Insight 1](#key-insight-1)
+  - [Key Insight 2](#key-insight-2)
+  - [Key Insight 3](#key-insight-3)
+  - [Recommendations](#recommendations)
+- [Other Metrics Overview](#other-metrics-overview)
+  - [Top and Bottom Performing Cities](#1-top-and-bottom-performing-cities)
+  - [Pricing Efficiency across Cities](#2-pricing-efficiency-across-cities)
+  - [Trust analysis by repeat and new passengers across cities](#3-trust-analysis-by-repeat-and-new-passengers-across-cities)
+  - [Seasonal Patterns across Cities](#4-seasonal-patterns-across-cities)
+  - [Economic Model of Cities](#5-economic-model-of-cities)
+  - [Repeat Passenger Frequency](#6-repeat-passenger-frequency)
+  - [Monthly Target Achievement Analysis](#7-monthly-target-achievement-analysis)
+  - [Repeat Passenger Rate](#8-repeat-passenger-rate)
 
 
 ## Data Structure & Entity Relationship Diagram (ERD)
