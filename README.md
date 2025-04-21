@@ -12,6 +12,10 @@ Like global players such as Uber and Grab, GoodCabs faces challenges tied to sea
 
 **How can GoodCabs design a predictive, data-driven strategy to minimize the effects of seasonality, stabilize revenue, and uphold its mission of empowering local drivers in tier-2 cities?**
 
+## Table of Contents
+- [Data Structure & Entity Relationship Diagram (ERD)](#data-structure--entity-relationship-diagram-erd)
+- [Data Cleaning](#-data-cleaning)
+
 
 ## Data Structure & Entity Relationship Diagram (ERD)
 The Goodcabs database comprises eight tables: `dim_city`, `dim_date`, `fact_trips`, `fact_Passenger_summary`,`dim_repeat_trip_distribution`,`City_target_passenger_rating`, `monthly_target_new_passengers`,`monthly_target_trips`, with a total row count of 425,000.
