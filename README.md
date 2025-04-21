@@ -30,6 +30,9 @@ Like global players such as Uber and Grab, GoodCabs faces challenges tied to sea
   - [Economic Model of Cities](#5-economic-model-of-cities)
   - [Repeat Passenger Frequency](#6-repeat-passenger-frequency)
   - [Monthly Target Achievement Analysis](#7-monthly-target-achievement-analysis)
+    - [Average Passenger Rating](#7a-average-passenger-rating)
+    - [New Passengers](#7b-new-passengers)
+    - [Total Trips](#7c-total-trips)
   - [Repeat Passenger Rate](#8-repeat-passenger-rate)
 
 
@@ -132,11 +135,11 @@ month_short = SWITCH(MONTH(dim_date[date]),
 ## Executive Summary – H1 2024
 **Overview of findings** 
 
-After analyzing the market size in India,2024. GoodCabs' market share was less than 2%(assumed target) of the estimated market value in 2024 in India. Actual performance has fallen short, reaching only ₹108.2 million INR in revenue—33% below target. The average revenue growth rate stands at -3.31%, largely due to a significant revenue drop of ₹2.6 million INR in June.
+After analyzing the market size in India in 2024, **GoodCabs' market share was less than 2%(assumed target) of the estimated market value in 2024 in India**. Actual performance has fallen short, reaching only **₹108.2 million INR in revenue—33% below target**. The **average revenue growth rate stands at -3.31%, largely due to a significant revenue drop of ₹2.6 million INR in June**.
 
-Trip volumes have been on a consistent decline since February, with the exception of a temporary rise in May. Notably, many cities recorded their highest trip counts in April and the lowest in June. Weekend trips, which contribute approximately 56% of total revenue, have been steadily declining since February. Weekday revenue experienced a steep drop in June.
+**Trip volumes have been on a consistent decline since February, with the exception of a temporary rise in May**. Notably, many cities recorded their highest trip counts in April and the lowest in June. Weekend trips, which contribute approximately 56% of total revenue, have been steadily declining since February. **Weekday revenue experienced a steep drop in June**.
 
-The Repeat Passenger Rate (RPR) plummeted by 11% in June, and new passenger acquisition has been consistently declining since February. These trends are primarily attributed to seasonal fluctuations, subpar passenger and driver ratings, UX/UI design shortcomings, overdependence on two key cities—Jaipur and Kochi—and the absence of a robust conversion strategy.
+**The Repeat Passenger Rate (RPR) plummeted by 11% in June, and new passenger acquisition has been consistently declining since February**. These trends are primarily attributed to seasonal fluctuations, subpar passenger and driver ratings, UX/UI design shortcomings, overdependence on two key cities—Jaipur and Kochi—and the absence of a robust conversion strategy.
 
 The following sections will delve deeper into the data, uncover actionable insights, and identify key opportunity areas for improving performance and driving sustainable growth.
 
@@ -189,15 +192,15 @@ Explore SQL Query [here](https://drive.google.com/file/d/1nDz0KS06OEYRJCf6xnGG5J
 Explore SQL Query [here](https://drive.google.com/file/d/1vYNrI462MolB28NCaGFiv7ANoeBt0Xjx/view?usp=sharing)
 
 ### 7. Monthly Target Achievement Analysis 
-- **7a. Average Passenger Rating**
+ ###  7a. Average Passenger Rating
 ![Q7a](https://github.com/user-attachments/assets/c4627c1a-792a-4a7d-943f-9a592111f796)
 Explore SQL Query [here](https://drive.google.com/file/d/1Md5d-b_bNOGr2aBTmvpvcEo76nkC_Ix0/view?usp=sharing)
 
-- **7b. New Passengers**
+ ###  7b. New Passengers
 ![Q7b](https://github.com/user-attachments/assets/0308e3c8-f92c-4da4-bd10-bef452648415)
 Explore SQL Query [here](https://drive.google.com/file/d/13tQM1M9_v9vhHQEnT9m357Hj-8FOVaXa/view?usp=sharing)
 
-- **7c. Total Trips**
+ ###  7c. Total Trips
 ![Q7c](https://github.com/user-attachments/assets/868ae11c-08f7-47ad-b5d1-58b2defe4b11)
 Explore SQL Query [here](https://drive.google.com/file/d/1vWO_9miXeRhDrDiD5Ecaatpy4A_nFxEu/view?usp=sharing)
 
