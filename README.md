@@ -214,6 +214,20 @@ Explore SQL Query [here](https://drive.google.com/file/d/1vWO_9miXeRhDrDiD5Ecaat
 ![Q8](https://github.com/user-attachments/assets/81de1f1b-af5e-43d2-acc4-479e884b2597)
 Explore SQL Query [here](https://drive.google.com/file/d/1LWKMPT3bDEHZl782iYpo8beE_nGffkzn/view?usp=sharing)
 
+## 💼 What Business Decision Did My Work Influence?
+My work served as a cornerstone for GoodCabs’ data-driven decision-making, directly shaping strategic and operational priorities across ten tier-2 cities in India. The analysis uncovered key friction points causing revenue decline and passenger drop-offs, especially in June, and offered tailored solutions to reverse negative growth trends, mitigate the effects of seasonality, and drive sustainable performance.
+**🔍 Key Business Influences and Strategic Shifts:**
+- Seasonality-Driven Demand Drop Mitigation (e.g., Kochi, Lucknow):
+
+  Cities like Kochi saw a sharp weekday repeat passenger rate drop due to the monsoon season. My recommendations led to partnerships with quick commerce and local delivery startups to generate weekday demand, 
+  Incentivize short trips and reduce idle driver time.
+
+  In Lucknow, where extreme heat followed by monsoon affected ridership, I suggested deploying comfort-priority fleets (AC guarantees), driver refresher trainings, and season-specific pricing to retain passenger 
+  engagement and maintain ratings.
+
+- 
+  
+
 
 
 
