@@ -145,36 +145,45 @@ The following sections will delve deeper into the data, uncover actionable insig
 ## Other Metrics Overview
 ### 1. Top and Bottom Performing Cities 
 ![Q1](https://github.com/user-attachments/assets/747b9531-1c75-43e4-8056-e849ca447207)
-Explore SQL Query [here] (https://drive.google.com/file/d/1lBIfhVXeXq9vh7nAewM9fpz_H8P2fwZP/view?usp=sharing)
+Explore SQL Query [here](https://drive.google.com/file/d/1lBIfhVXeXq9vh7nAewM9fpz_H8P2fwZP/view?usp=sharing)
 
 ### 2. Pricing Efficiency across Cities
 ![Q2](https://github.com/user-attachments/assets/e13eda10-ce9a-423a-a693-76a23f4357d2)
+Explore SQL Query [here](https://drive.google.com/file/d/1Xyyq_KNgvCfDRA2WSMn4TMAU5SVCdP9E/view?usp=sharing)
+
 
 ### 3. Trust analysis by repeat and new passengers across cities
 ![Q3](https://github.com/user-attachments/assets/34ac90cb-06b9-4868-9a71-82a8436d616b)
+Explore SQL Query [here](https://drive.google.com/file/d/1B_W7Qva9oSQ5TDKYmGpfKXxOMgE-eZcJ/view?usp=sharing)
 
 ### 4. Seasonal Patterns across Cities
 ![Q4](https://github.com/user-attachments/assets/46583668-de34-4731-a71c-c87126af8ff0)
+Explore SQL Query [here](https://drive.google.com/file/d/1IlYp1_Ul7y_PN8Yvqbmth8MgzY3s3Osr/view?usp=sharing)
 
 ### 5. Economic Model of Cities
 ![Q5](https://github.com/user-attachments/assets/9d455357-b430-4a3d-abf5-002933672f1f)
+Explore SQL Query [here](https://drive.google.com/file/d/1nDz0KS06OEYRJCf6xnGG5JzOuoQUrCVc/view?usp=sharing)
 
 ### 6. Repeat Passenger Frequency 
 ![Q6](https://github.com/user-attachments/assets/b740ade4-086c-4857-9976-bcf00d9f53e8)
+Explore SQL Query [here](https://drive.google.com/file/d/1vYNrI462MolB28NCaGFiv7ANoeBt0Xjx/view?usp=sharing)
 
 ### 7. Monthly Target Achievement Analysis 
-- **Average Passenger Rating**
+- **7a. Average Passenger Rating**
 ![Q7a](https://github.com/user-attachments/assets/c4627c1a-792a-4a7d-943f-9a592111f796)
+Explore SQL Query [here](https://drive.google.com/file/d/1Md5d-b_bNOGr2aBTmvpvcEo76nkC_Ix0/view?usp=sharing)
 
-- **New Passengers**
+- **7b. New Passengers**
 ![Q7b](https://github.com/user-attachments/assets/0308e3c8-f92c-4da4-bd10-bef452648415)
+Explore SQL Query [here](https://drive.google.com/file/d/13tQM1M9_v9vhHQEnT9m357Hj-8FOVaXa/view?usp=sharing)
 
-- **Total Trips**
+- **7c. Total Trips**
 ![Q7c](https://github.com/user-attachments/assets/868ae11c-08f7-47ad-b5d1-58b2defe4b11)
+Explore SQL Query [here](https://drive.google.com/file/d/1vWO_9miXeRhDrDiD5Ecaatpy4A_nFxEu/view?usp=sharing)
 
 ### 8. Repeat Passenger Rate
 ![Q8](https://github.com/user-attachments/assets/81de1f1b-af5e-43d2-acc4-479e884b2597)
-
+Explore SQL Query [here](https://drive.google.com/file/d/1LWKMPT3bDEHZl782iYpo8beE_nGffkzn/view?usp=sharing)
 
 
 
