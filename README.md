@@ -246,8 +246,7 @@ My work served as a cornerstone for GoodCabs’ data-driven decision-making, dir
   
 - **New Database of Users:**
   
-  To understand their demographic and behaviour patterns which would the marketing team to develop the right marketing compaigns and the operations and R & D team to adjust the demand forecast as per the 
-  season. 
+  To understand their demographic and behaviour patterns which would the **marketing team to develop the right marketing compaigns and the operations and R & D team to adjust the demand forecast as per the season.** 
   
 
 
