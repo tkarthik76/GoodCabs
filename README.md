@@ -217,30 +217,37 @@ Explore SQL Query [here](https://drive.google.com/file/d/1LWKMPT3bDEHZl782iYpo8b
 
 ## 💼 What Business Decision Did My Work Influence?
 My work served as a cornerstone for GoodCabs’ data-driven decision-making, directly shaping strategic and operational priorities across ten tier-2 cities in India. The analysis uncovered key friction points causing revenue decline and passenger drop-offs, especially in June, and offered tailored solutions to reverse negative growth trends, mitigate the effects of seasonality, and drive sustainable performance.
-**🔍 Key Business Influences and Strategic Shifts:**
-- Seasonality-Driven Demand Drop Mitigation (e.g., Kochi, Jaipur):
+### 🔍 Key Business Influences and Strategic Shifts:
+- **Seasonality-Driven Demand Drop Mitigation (e.g., Kochi, Jaipur):**
 
   Cities like Kochi saw a sharp weekday repeat passenger rate drop due to the monsoon season, and Jaipur in nonseason months like June saw a drop in weekday and weekend repeat passengers due to poor pricing 
-  strategy,lack of loyalty rewards, and extreme heat. My recommendations led to partnerships with quick commerce and local delivery startups to generate weekday demand, development of an AI driven pricing and revenue 
-  management tool, loyalty rewards, Incentivize short trips, reduce idle driver time.
+  strategy,lack of loyalty rewards, and extreme heat. **My recommendations led to partnerships with quick commerce and local delivery startups to generate weekday demand, development of an AI driven pricing and 
+  revenue management tool, loyalty rewards, Incentivize short trips, reduce idle driver time**.
 
-- Repeat Customer Retention Strategy:
+- **Repeat Customer Retention Strategy:**
 
-  Cities like Kochi and Jaipur saw the biggest drop in RPR and no. of repeat passengers, as there was low demand, high pricing, zero loyalty rewards and programmes, possibly poor UX/UI had worsened the status, which led to adoption of new GoodCabs Pass loyalty program, Comfort Upgrades for loyal users, new UX/UI features like smart route map in App, "Repeat Yesterday's Ride" → one-tap rebooking and Allow swipe-up cards.
+  Cities like Kochi and Jaipur saw the biggest drop in RPR and no. of repeat passengers, as there was low demand, high pricing, zero loyalty rewards and programmes, possibly poor UX/UI had worsened the status, 
+  which led to adoption of **new GoodCabs Pass loyalty program, Comfort Upgrades for loyal users, new UX/UI features like smart route map in App, "Repeat Yesterday's Ride" → one-tap rebooking and Allow swipe-up 
+  cards.**
 
-- Trust Development Strategies:
+- **Trust Development Strategies:**
 
-  Business based cities like Surat, Vadodara and Lucknow saw a decrease in repeat passenger trip frequency and did not utilize its potential due to poor drivers' and passengers' rating which led to the Implementation of GoodCabs Guest which is a new service operated by trained drivers and a drivers' rating badges like  “100+ rides”, “Rain-Safe Driver”, or “Top Rated This Month” and AC and Rain safe ride badges as a part of UX/UI feature to improve satisfaction among customers and improve trust.
+  Business based cities like Surat, Vadodara and Lucknow saw a decrease in repeat passenger trip frequency and did not utilize its potential due to poor drivers' and passengers' rating which led to the 
+  Implementation of **GoodCabs Guest which is a new service operated by trained drivers and a drivers' rating badges like  “100+ rides”, “Rain-Safe Driver”, or “Top Rated This Month” and AC and Rain safe ride 
+  badges as a part of UX/UI feature to improve satisfaction among customers and improve trust.**
 
 
-- New Customer Acquisition:
+- **New Customer Acquisition:**
 
-  Tourism Cities like Jaipur saw an increase in new passengers due to extreme heat and kochi due to low demand, mysore due to low trip volumne, led to implementation of Book First, Sign Up Later feature, First Ride free offer, Comfort focused marketing, Weather Proof rides marketing, Tie-ups with local tourism departments especially adventure activities, corporates, festive events and regional heritage adoption in operations.
+  Tourism Cities like Jaipur saw an increase in new passengers due to extreme heat and kochi due to low demand, mysore due to low trip volumne, led to implementation of **Book First, Sign Up Later feature, First 
+  Ride free offer, Comfort focused marketing, Weather Proof rides marketing, Tie-ups with local tourism departments especially adventure activities, corporates, festive events and regional heritage adoption in 
+  operations.**
 
   
-
+- **New Database of Users:**
   
-- 
+  To understand their demographic and behaviour patterns which would the marketing team to develop the right marketing compaigns and the operations and R & D team to adjust the demand forecast as per the 
+  season. 
   
 
 
