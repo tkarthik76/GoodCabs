@@ -36,6 +36,7 @@ Like global players such as Uber and Grab, GoodCabs faces challenges tied to sea
     - [New Passengers](#7b-new-passengers)
     - [Total Trips](#7c-total-trips)
   - [Repeat Passenger Rate](#8-repeat-passenger-rate)
+- [What Business Decision Did My Work Influence?](#-what-business-decision-did-my-work-influence)
 
 
 ## Data Structure & Entity Relationship Diagram (ERD)
@@ -217,14 +218,28 @@ Explore SQL Query [here](https://drive.google.com/file/d/1LWKMPT3bDEHZl782iYpo8b
 ## 💼 What Business Decision Did My Work Influence?
 My work served as a cornerstone for GoodCabs’ data-driven decision-making, directly shaping strategic and operational priorities across ten tier-2 cities in India. The analysis uncovered key friction points causing revenue decline and passenger drop-offs, especially in June, and offered tailored solutions to reverse negative growth trends, mitigate the effects of seasonality, and drive sustainable performance.
 **🔍 Key Business Influences and Strategic Shifts:**
-- Seasonality-Driven Demand Drop Mitigation (e.g., Kochi, Lucknow):
+- Seasonality-Driven Demand Drop Mitigation (e.g., Kochi, Jaipur):
 
-  Cities like Kochi saw a sharp weekday repeat passenger rate drop due to the monsoon season. My recommendations led to partnerships with quick commerce and local delivery startups to generate weekday demand, 
-  Incentivize short trips and reduce idle driver time.
+  Cities like Kochi saw a sharp weekday repeat passenger rate drop due to the monsoon season, and Jaipur in nonseason months like June saw a drop in weekday and weekend repeat passengers due to poor pricing 
+  strategy,lack of loyalty rewards, and extreme heat. My recommendations led to partnerships with quick commerce and local delivery startups to generate weekday demand, development of an AI driven pricing and revenue 
+  management tool, loyalty rewards, Incentivize short trips, reduce idle driver time.
 
-  In Lucknow, where extreme heat followed by monsoon affected ridership, I suggested deploying comfort-priority fleets (AC guarantees), driver refresher trainings, and season-specific pricing to retain passenger 
-  engagement and maintain ratings.
+- Repeat Customer Retention Strategy:
 
+  Cities like Kochi and Jaipur saw the biggest drop in RPR and no. of repeat passengers, as there was low demand, high pricing, zero loyalty rewards and programmes, possibly poor UX/UI had worsened the status, which led to adoption of new GoodCabs Pass loyalty program, Comfort Upgrades for loyal users, new UX/UI features like smart route map in App, "Repeat Yesterday's Ride" → one-tap rebooking and Allow swipe-up cards.
+
+- Trust Development Strategies:
+
+  Business based cities like Surat, Vadodara and Lucknow saw a decrease in repeat passenger trip frequency and did not utilize its potential due to poor drivers' and passengers' rating which led to the Implementation of GoodCabs Guest which is a new service operated by trained drivers and a drivers' rating badges like  “100+ rides”, “Rain-Safe Driver”, or “Top Rated This Month” and AC and Rain safe ride badges as a part of UX/UI feature to improve satisfaction among customers and improve trust.
+
+
+- New Customer Acquisition:
+
+  Tourism Cities like Jaipur saw an increase in new passengers due to extreme heat and kochi due to low demand, mysore due to low trip volumne, led to implementation of Book First, Sign Up Later feature, First Ride free offer, Comfort focused marketing, Weather Proof rides marketing, Tie-ups with local tourism departments especially adventure activities, corporates, festive events and regional heritage adoption in operations.
+
+  
+
+  
 - 
   
 
