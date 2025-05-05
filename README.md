@@ -147,7 +147,7 @@ After analyzing the market size in India in 2024, **GoodCabs' market share was l
 The following sections will delve deeper into the data, uncover actionable insights, and identify key opportunity areas for improving performance and driving sustainable growth.
 
  ### Dashboard
- Explore the Dashboard [here](http://bit.ly/4hLhefA)
+ Explore the Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZjE3NjVmOWUtOTA1Ny00M2JhLWE5NTgtOTNkYzcwYzUwNjU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ### Company's Status?
